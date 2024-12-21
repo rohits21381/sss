@@ -1,0 +1,24 @@
+[33mcommit 82b3eb87ffa3a4482cd67f57f6418df9570c28ec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 360c963 a1db55a
+Author: Rohit <rohit.shinde9509@gmail.com>
+Date:   Sat Dec 21 22:39:03 2024 +0530
+
+    Merge branch 'main' of github.com:rohits21381/sss
+
+[33mcommit 360c963cef846d061f8114b25a563a5399c4e2aa[m
+Author: Rohit <rohit.shinde9509@gmail.com>
+Date:   Sat Dec 21 22:36:31 2024 +0530
+
+    windows
+
+[33mcommit a1db55a55ceced4b72c9c4cdd6c3fc1c8e0f0d0c[m
+Author: root <root@ip-10-0-0-237.ec2.internal>
+Date:   Sat Dec 21 17:04:59 2024 +0000
+
+    linux2
+
+[33mcommit b554d0ca519468cf15d45da53cb1024eb83e1348[m
+Author: root <root@ip-10-0-0-237.ec2.internal>
+Date:   Sat Dec 21 16:34:40 2024 +0000
+
+    linux
